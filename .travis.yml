@@ -37,6 +37,6 @@ jobs:
 notifications:
   email:
     recipients:
-      - angleyap0807@gmail.com
+      - angelyap0807@1utar.my
     on_success: always
     on_failure: always
